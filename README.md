@@ -1,6 +1,6 @@
 # ML Foundations Notebooks
 
-My personal notes and from‑scratch implementations while studying ML (e.g., Andrew Ng’s courses).  
+My personal notes and implementations while studying ML (e.g., Andrew Ng’s courses).  
 No course materials are redistributed—just my own code and summaries.
 
 ## Structure
