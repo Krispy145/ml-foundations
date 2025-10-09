@@ -1,7 +1,6 @@
 # ML Foundations
 
-My personal notes and implementations while studying ML (e.g., Andrew Ng’s courses).  
-No course materials are redistributed — just my own code and summaries.
+Hands-on notebooks implementing core ML algorithms with evaluations and plots.
 
 ## Structure
 
@@ -30,7 +29,7 @@ jupyter notebook
 ### Current Topics
 
 - ✅ Linear Regression
-- 🔄 Multivariate Regression (in progress)
+- 🔄 Multiple Linear Regression (in progress)
 - ⏳ Logistic Regression (next)
 - 🧠 Regularization & Generalization (upcoming)
 
