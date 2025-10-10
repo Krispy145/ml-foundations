@@ -35,6 +35,17 @@ jupyter notebook
 
 ---
 
+## 🗓 Roadmap
+
+| Milestone                    | Category              | Target Date | Status     |
+| ---------------------------- | --------------------- | ----------- | ---------- |
+| Complete Linear Regression   | Machine Learning Foundations | 06/10/2025  | ✅ Done    |
+| Complete Multiple Linear Regression | Machine Learning Foundations | 07/10/2025  | ✅ Done    |
+| Complete Logistic Regression | Machine Learning Foundations | 17/10/2025  | ⏳ In Progress |
+| Finish ML Foundations Specialization | Machine Learning Foundations | 20/10/2025  | ⏳ Planned |
+
+---
+
 > 💬 Note: Some of the markdown documentation and cheat-sheets were structured with the help of AI tools for clarity and consistency.  
 > All code and learning content are my own work.
 
