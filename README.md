@@ -1,16 +1,63 @@
-# ML Foundations
+# Ml Foundations
 
 Hands-on notebooks implementing core ML algorithms with evaluations and plots.
 
-## Structure
+---
 
-- `notebooks/` — experiments and notes.
-- `data/` — local datasets (kept out of git by default).
-- `requirements.txt` — minimal dependencies.
+## 📈 Status
 
-## Getting Started
+- **Status:** active (Active)
+- **Focus:** Hands-on notebooks implementing core ML algorithms with evaluations and plots.
+- **Last updated:** 11/10/2025
+- **Target completion:** 17/10/2025
+
+---
+
+## 🔑 Highlights
+
+- **Hands-on Learning** → Interactive Jupyter notebooks
+- **Core Algorithms** → Linear regression, logistic regression
+- **Data Visualization** → Matplotlib and Seaborn plots
+- **Real Datasets** → Practical examples with real data
+- **Cheat Sheets** → Quick reference guides
+- **Progressive Learning** → Step-by-step complexity
+
+---
+
+## 🏗 Architecture Overview
+
+```
+notebooks/          # Jupyter notebooks for experiments
+ ├─ 01-linear-regression.ipynb
+ ├─ 02-multiple-linear-regression.ipynb
+ └─ 03-logistic-regression.ipynb
+cheat-sheets/       # Quick reference guides
+data/              # Local datasets (gitignored)
+```
+
+**Patterns used:**
+
+- **Jupyter notebooks** → interactive data science workflow
+- **NumPy/Pandas** → data manipulation and analysis
+- **Scikit-learn** → machine learning algorithms
+- **Matplotlib** → data visualization
+
+---
+
+## 📱 What It Demonstrates
+
+- Machine learning fundamentals and algorithms
+- Data science workflow and best practices
+- Interactive learning with Jupyter notebooks
+- Practical application of ML concepts
+
+---
+
+## 🚀 Getting Started
 
 ```bash
+git clone https://github.com/Krispy145/ml-foundations.git
+cd ml-foundations
 python -m venv .venv
 source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install --upgrade pip
@@ -20,18 +67,25 @@ jupyter notebook
 
 ---
 
-## 📈 Progress Snapshot
+## 🧪 Testing
 
-![Progress](https://img.shields.io/badge/ML_Foundations-45%25-blue)
-![Status](https://img.shields.io/badge/status-active-green)
-![Last_Updated](https://img.shields.io/badge/updated-06/10/2025-informational)
+```bash
+# Run notebook tests
+jupyter nbconvert --execute --to notebook notebooks/*.ipynb
+```
 
-### Current Topics
+- Notebook execution → verify all cells run successfully
+- Data validation → check data loading and processing
+- Visualization → ensure plots render correctly
 
-- ✅ Linear Regression
-- 🔄 Multiple Linear Regression (in progress)
-- ⏳ Logistic Regression (next)
-- 🧠 Regularization & Generalization (upcoming)
+---
+
+## 🔒 Security & Next Steps
+
+- Follow security best practices for the technology stack
+- Implement proper authentication and authorization
+- Add comprehensive error handling and validation
+- Set up monitoring and logging
 
 ---
 
@@ -39,17 +93,14 @@ jupyter notebook
 
 | Milestone                    | Category              | Target Date | Status     |
 | ---------------------------- | --------------------- | ----------- | ---------- |
-| Complete Linear Regression   | Machine Learning Foundations | 06/10/2025  | ✅ Done    |
-| Complete Multiple Linear Regression | Machine Learning Foundations | 07/10/2025  | ✅ Done    |
-| Complete Logistic Regression | Machine Learning Foundations | 17/10/2025  | ⏳ In Progress |
-| Finish ML Foundations Specialization | Machine Learning Foundations | 20/10/2025  | ⏳ Planned |
+| Complete Linear Regression | Machine Learning Foundations | 06/10/2025 | ✅ Done |
+| Complete Multiple Linear Regression | Machine Learning Foundations | 07/10/2025 | ✅ Done |
+| Complete Logistic Regression | Machine Learning Foundations | 17/10/2025 | ⏳ In Progress |
+| Finish ML Foundations Specialization | Machine Learning Foundations | 20/10/2025 | ⏳ In Progress |
+
 
 ---
 
-> 💬 Note: Some of the markdown documentation and cheat-sheets were structured with the help of AI tools for clarity and consistency.  
-> All code and learning content are my own work.
+## 📄 License
 
----
-
-📚 **Part of my AI + Cybersecurity Roadmap:**  
-[View the full journey → `ai-cyber-security-roadmap`](https://github.com/Krispy145/ai-cyber-security-roadmap)
+MIT © Krispy145
