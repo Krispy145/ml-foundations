@@ -27,16 +27,23 @@ Hands-on notebooks implementing core ML algorithms with evaluations and plots.
 ## 🏗 Architecture Overview
 
 ```
-notebooks/          # Jupyter notebooks for experiments
- ├─ 01-linear-regression.ipynb
- ├─ 02-multiple-linear-regression.ipynb
- └─ 03-logistic-regression.ipynb
-cheat-sheets/       # Quick reference guides
+notebooks/
+├── course-one/     # Course 1: Supervised Machine Learning
+│   ├── 01-linear-regression.ipynb
+│   ├── 02-multiple-linear-regression.ipynb
+│   ├── 03-logistic-regression.ipynb
+│   └── 03b-logistic-regression-scikit.ipynb
+cheat-sheets/
+├── course-one/     # Course 1: Supervised Machine Learning
+│   ├── week1-linear-regression.md
+│   ├── week2-multiple-linear-regression.md
+│   └── week3-logistic-regression.md
 data/              # Local datasets (gitignored)
 ```
 
 **Patterns used:**
 
+- **Course Organization** → Structured by Machine Learning Specialization courses
 - **Jupyter notebooks** → interactive data science workflow
 - **NumPy/Pandas** → data manipulation and analysis
 - **Scikit-learn** → machine learning algorithms
