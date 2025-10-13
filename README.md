@@ -96,7 +96,6 @@ jupyter nbconvert --execute --to notebook notebooks/*.ipynb
 | Complete Linear Regression | Machine Learning Foundations | 06/10/2025 | ✅ Done |
 | Complete Multiple Linear Regression | Machine Learning Foundations | 07/10/2025 | ✅ Done |
 | Complete Logistic Regression | Machine Learning Foundations | 17/10/2025 | ✅ Done |
-| Finish ML Foundations Specialization | Machine Learning Foundations | 20/10/2025 | ⏳ In Progress |
 
 
 ---
