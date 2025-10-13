@@ -100,9 +100,9 @@ jupyter nbconvert --execute --to notebook notebooks/*.ipynb
 
 | Milestone                    | Category              | Target Date | Status     |
 | ---------------------------- | --------------------- | ----------- | ---------- |
-| Complete Linear Regression | Machine Learning Foundations | 06/10/2025 | ✅ Done |
-| Complete Multiple Linear Regression | Machine Learning Foundations | 07/10/2025 | ✅ Done |
-| Complete Logistic Regression | Machine Learning Foundations | 17/10/2025 | ✅ Done |
+| Complete Linear Regression | Machine Learning Specialization | 06/10/2025 | ✅ Done |
+| Complete Multiple Linear Regression | Machine Learning Specialization | 07/10/2025 | ✅ Done |
+| Complete Logistic Regression | Machine Learning Specialization | 17/10/2025 | ✅ Done |
 | Complete Course 1: Supervised Machine Learning | Machine Learning Specialization | 17/10/2025 | ✅ Done |
 | Complete Course 2: Advanced Learning Algorithms | Machine Learning Specialization | 03/11/2025 | ⏳ Planned |
 | Complete Course 3: Unsupervised Learning, Recommenders, RL | Machine Learning Specialization | 17/11/2025 | ⏳ Planned |
