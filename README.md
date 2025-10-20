@@ -9,7 +9,7 @@ Hands-on notebooks implementing core ML algorithms with evaluations and plots.
 - **Status:** active (Active)
 - **Focus:** Hands-on notebooks implementing core ML algorithms with evaluations and plots.
 - **Last updated:** 13/10/2025
-- **Target completion:** 17/10/2025
+- **Target completion:** 29/10/2025
 
 ---
 
@@ -102,8 +102,8 @@ jupyter nbconvert --execute --to notebook notebooks/*.ipynb
 | ---------------------------- | --------------------- | ----------- | ---------- |
 | Complete Linear Regression | Machine Learning Specialization | 06/10/2025 | ✅ Done |
 | Complete Multiple Linear Regression | Machine Learning Specialization | 07/10/2025 | ✅ Done |
-| Complete Logistic Regression | Machine Learning Specialization | 17/10/2025 | ✅ Done |
-| Complete Course 1: Supervised Machine Learning | Machine Learning Specialization | 17/10/2025 | ✅ Done |
+| Complete Logistic Regression | Machine Learning Specialization | 26/10/2025 | ✅ Done |
+| Complete Course 1: Supervised Machine Learning | Machine Learning Specialization | 26/10/2025 | ✅ Done |
 | Complete Course 2: Advanced Learning Algorithms | Machine Learning Specialization | 03/11/2025 | ⏳ In Progress |
 | Complete Course 3: Unsupervised Learning, Recommenders, RL | Machine Learning Specialization | 17/11/2025 | ⏳ Planned |
 | Complete Machine Learning Specialization (Andrew Ng) | Machine Learning Specialization | 20/11/2025 | ⏳ Planned |
