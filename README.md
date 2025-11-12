@@ -8,7 +8,7 @@ Hands-on notebooks implementing core ML algorithms with evaluations and plots.
 
 - **Status:** active (Active)
 - **Focus:** Hands-on notebooks implementing core ML algorithms with evaluations and plots.
-- **Last updated:** 11/11/2025
+- **Last updated:** 12/11/2025
 - **Target completion:** 20/11/2025
 
 ---
